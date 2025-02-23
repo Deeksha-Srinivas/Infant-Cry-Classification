@@ -1,0 +1,11 @@
+# Ignore unnecessary files
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+.DS_Store
+
+# Ignore datasets (optional)
+dataset/
+features.csv
+models/*.pkl
